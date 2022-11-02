@@ -15,14 +15,9 @@ import org.junit.runner.RunWith;
         glue = "cydeo/step_definitions",
         dryRun = false,
         tags = "@deneme"
-       // publish = false
+
 )
 
 public class CukesRunner {
 
 }
-
-/*
-  //"pretty",
-                //"json:target/cucumber.json", // suleyman bey ekletti
- */
